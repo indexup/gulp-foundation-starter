@@ -2,7 +2,6 @@
 
 Starter template with Gulp, Foundation and LiveReload
 
-***
 - Gulp
 - Foundation 5
 - npm
@@ -14,6 +13,12 @@ Starter template with Gulp, Foundation and LiveReload
 - Reload page on JS, CSS, HTML changes
 - Automatically build when JS, CSS and HTML changed
 - Minify and concat CSS and JS after build
+
+###Install
+- Pull repository
+- npm install
+- bower install
+- gulp
 
 ###History
 ```
