@@ -10,9 +10,9 @@ Starter template with Gulp, Foundation and LiveReload
 
 ###Features
 
-- Reload page on JS, CSS, HTML changes
-- Automatically build when JS, CSS and HTML changed
-- Minify and concat CSS and JS after build
+- Reload page on JS, SCSS, HTML changes
+- Automatically build when JS, SCSS and HTML changed
+- Minify and concat SCSS and JS after build
 
 ###Install
 - Pull repository
