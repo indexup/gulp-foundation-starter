@@ -25,6 +25,6 @@ Starter template with Gulp, Foundation and LiveReload
 10.01.2016 Initial release
 ```
 
-***
+
 
 -IndexUP
