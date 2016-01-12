@@ -1,0 +1,22 @@
+{
+  "name": "Gulp-Foundation",
+  "authors": [
+    "Maksim <maksim@index.ee>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "ISC",
+  "homepage": "http://index.ee",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.5.3"
+  }
+}
